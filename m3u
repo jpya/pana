@@ -1,0 +1,397 @@
+#EXTM3U
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c90cc57ad2c436e5a77db2f8d9db2d85:04f6c73984bdcffd013050608497935d
+#EXTINF:-1 tvg-id="HBO.2.(Panamerican).(HBO.2).ar" tvg-logo="https://i.imgur.com/BS16Dmx.png" tvg-group="Cine y Series",HBO 2 HD
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/118.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0e7f7d458990edfab7b98b412564615:79205754b7f84a62661c2dbe9de5dd5d
+#EXTINF:-1 tvg-id="HBO.Plus.(Panamericano).(HBO+).ar" tvg-logo="https://i.imgur.com/anz8Wxr.png" tvg-group="Cine y Series",HBO Plus HD
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/119.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=535473132f68082160b489482ca35f8e:e90fd91fcd3fc809bed2b1c0d37f7297
+#EXTINF:-1 tvg-id="HBO.Family.HDTV.(Spanish)" tvg-logo="https://i.imgur.com/ouJxqTS.png" tvg-group="Cine y Series",HBO Family
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/120.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7821b2662148fe333d5191acbb8a5c1f:ae43f3e2545237ebda58b13813b5d328
+#EXTINF:-1 tvg-id="HBO.MUNDI.(Panamerican).(HBOMUN).ar" tvg-logo="https://i.imgur.com/gh4xj43.png" tvg-group="Cine y Series", HBO Mundi 
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/121.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d504011bbef467c0de3a7534e302a6d4:334103e2abe16faa7f9ab2e3097c5a58
+#EXTINF:-1 tvg-id="HBO.Xtreme.Panamericano.(HBOXTR).ar" tvg-logo="https://i.imgur.com/21pdDCP.png" tvg-group="Cine y Series",HBO Xtreme HD
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/122.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4e1ce5cef7e9a110fe968f8881b21fa:6bbe2062b150b11496cdd5fbdd9c89d6
+#EXTINF:-1 tvg-id="HBO.POP.HDTV.(Panamerican).(HBOPOP).ar" tvg-logo="https://i.imgur.com/8H6M6Ta.png" tvg-group="Cine y Series",HBO POP HD
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/123.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e866499fbc1149f49989672075aa3a68:d2dd5c95623c6343240981c2202fc311
+#EXTINF:-1 tvg-id="HBO.Signature.(Panamerican).(HBOSG).ar" tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/500.png" tvg-group="Cine y Series", HBO Signature 
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/124.m3u8 
+
+#EXTINF:-1 tvg-id="AXN.(Argentina).(AXN).ar" tvg-logo="https://i.imgur.com/PH2IOhq.png" tvg-group="Cine y Series",AXN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=03e77b5bbf5135a85d587c5af2f2f730:1dd1ab1938a791d03f09eb88478b4880
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/125.m3u8
+
+#EXTINF:-1 tvg-id="AMC.(South).(AMC).ar" tvg-logo="https://i.imgur.com/17oDw9A.png" tvg-group="Cine y Series",AMC
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1fa6a86fd80b6d1425dde74482b5dc9c:744c3636d57a651ab444cf9fe5f95b33
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/126.m3u8
+
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-logo="https://i.imgur.com/Iozv4tT.png" tvg-group="Locales",Cine.Ar
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d44f40e49d2945c1a3701c0885ff0b00:6382b6279087402714b6824688c456df
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/127.m3u8
+
+#EXTINF:-1 tvg-id="Sony.Entertainment.Television.(Argentina).(SONY).ar" tvg-logo="https://i.imgur.com/m3XQgCj.png" tvg-group="Cine y Series",Sony Channel
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd9619f9d7c2d5115a339941279e0b4b:bf55635e6591f905659fa27ab3ca2812
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/128.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"88b9c41e72acd5b589bbfb4776969781":"43b9403f7a9e28fc2d7cbf10373b85aa"}
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/239px-Sony_Movies_Logo.svg.png" group-title="Cine y Series",Sony Movies
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/234.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gze7lwy.png" tvg-group="Cine y Series",Sony Competencias
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/129.m3u8
+
+#EXTINF:-1 tvg-id="Comedy.Central.(Latin.America.-.South).(COMCENTR).ar" tvg-logo="https://i.imgur.com/sw2dzBI.png" tvg-group="Cine y Series",Comedy Central
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4013f784c5ef4318ad47024e61eb094e:bad433a547f97c7f65cda5e83b8dd416
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/130.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Latin.America.(Argentina).(TNT).ar" tvg-logo="https://i.imgur.com/IrDUx7x.png" tvg-group="Cine y Series",TNT
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=faad1722a575f4d9ec7b774db63c879c:cf0184830344ba36ad2ffef9dd2dd9d0
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/131.m3u8
+
+#EXTINF:-1 tvg-id="TNT.Series.SUR.SD.(TNTSERIE).ar" tvg-logo="https://i.imgur.com/1cNxdey.png" tvg-group="Cine y Series",TNT Series
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5c14d6aeb19bf113edf91a7b544253cb:8d776d6f9c5c840ebe88d767dd731692
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/132.m3u8
+
+#EXTINF:-1 tvg-id="Cinecanal.+.HDTV.(Latin.America).(CIN+H).ar" tvg-logo="https://i.imgur.com/NhtMWLp.png" tvg-group="Cine y Series",Cinecanal
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6003e92dd0d9f548329015c9e15dd578:213cf85cb5f9fe569757004a77e05948
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/133.m3u8
+
+#EXTINF:-1 tvg-id="Studio.Universal.(Argentina).(STUNI).ar" tvg-logo="https://i.imgur.com/LBRVyiu.png" tvg-group="Cine y Series",Studio Universal
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9b541e3cd064d569843da42788d4263:bba5d26ad5051fb3f2cf7e3dd8a4a7d8
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/134.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
+#EXTINF:-1 tvg-id="STAR.International.(Argentina).(STAR).ar" tvg-logo="https://i.imgur.com/ufR3D6U.png" group-title="Cine y Series",Star Channel (Full HD)
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/266.m3u8
+
+#EXTINF:-1 tvg-id="STAR.International.(Argentina).(STAR).ar" tvg-logo="https://i.imgur.com/ufR3D6U.png" tvg-group="Cine y Series",Star Channel HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8023e85ef9d17561ee1b424179b1b15e:477ad189f1fcd2baec026068107f862f
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/135.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ecbd132de727224c161abd8065b0dfb:75faf1eca3cef7208e19de379d0a529d
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/rolnando-play/RP/master/app/canalesImg/golden.png"  group-title="Cine y Series",Golden HD
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/230.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JMa7jws.png" tvg-group="Cine y Series",Golden Edge HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey						
+#KODIPROP:inputstream.adaptive.license_key=202c8579c94df506c1a1c54ef49a0c60:871f84901f3580cfa7273293482a66c5
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/231.m3u8
+
+#EXTINF:-1 tvg-id="truTV.HDTV.(Latin.America).(TRUTVD).ar" tvg-logo="https://i.imgur.com/NDmVZwK.png" group-title="Entretenimiento",Adult Swim
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9be1432e1e594c8d0648a44d3d9f0c46:8e6c785b14d973c504074b1920f11b15
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/138.m3u8
+
+#EXTINF:-1 tvg-id="Warner.Channel.(Argentina).(WARNER).ar" tvg-logo="https://i.imgur.com/ykSWsHl.png" tvg-group="Cine y Series",Warner Channel
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=069bd3f0b6c279467e08549f17bf5bd0:5afa7e369a6de1093818a85af912a775
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/139.m3u8
+
+#EXTINF:-1 tvg-id="Space.(Sur).(SPACE).ar" tvg-logo="https://i.imgur.com/nQT79B9.png" tvg-group="Cine y Series",Space
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0942e4ecd1bd3567e8f9447f45c20a12:efca6264f04cf7373de0c30ec79fe909
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/140.m3u8
+
+#EXTINF:-1 tvg-id="FX.Latin.America.(Argentina).(FX).ar" tvg-logo="https://i.imgur.com/zOFjHP8.png" tvg-group="Cine y Series",FX
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ab9c42c713e0fb5517dc77cc19d6755:d8c271b82387e609b6c19e5e79240aff
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/141.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.(South).(CINEMAX).ar" tvg-logo="https://i.imgur.com/BRzYkgO.png" tvg-group="Cine y Series",Cinemax
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=977928a92b82ba3781741a6470f8f45b:51f4e62827c128f7210b79a11587661a
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/142.m3u8
+
+#EXTINF:-1 tvg-id="TCM.-.Turner.Classic.Movies.(Argentina).(TCMLA).ar" tvg-logo="https://i.imgur.com/pIaWvGU.png" tvg-group="Cine y Series",TCM
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a5f44a5e30714cf3bcee7c7f15a08b4e:c3c141ae941ab9750339c3af45a65ce2
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/220.m3u8
+
+#EXTINF:-1 tvg-id="Europa.Europa.(EE).ar" tvg-logo="https://i.imgur.com/UWR7MRC.png" tvg-group="Cine y Series",Europa Europa
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b47f257df0314d09a7f8355c3abe1dc6:bdc9f1696a82ee7398dd3a7fa82300e2
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/144.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1gpu1KW.png" tvg-group="Cine y Series",Eurochannel
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f0fc214d9844a7590f0884d55b44c42:b2fe1bb5f9c79035301c328c1e93b0ee
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/145.m3u8
+
+#EXTINF:-1 tvg-id="Universal.Channel.(Argentina).(UNIVE).ar" tvg-logo="https://i.imgur.com/GZ8IhUQ.png" tvg-group="Cine y Series",Universal TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6cf9a13d6fd65a0f2e1cee3969aab9f5:ea61c3c1adee71b5c2e9744e41d4b75f
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/146.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"f6ae2e17173055e4ca69dc18963406ae":"5a955c29eb88a0b4c9a2538cc4b3aea2"}
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" group-title="Cine",Universal Cinema
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/147.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"062c5d25105a3a935b67e36923c73f28":"88c2d4cec420f18d2477152c66c7870d"}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AdI8LVu.png" group-title="Cine",Universal Comedy
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/148.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1efd7edf60e1514f775dd13d046ae708":"c2ef1abbd945c62c11b1375eaaa50f0d"}
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Universal_Crime.svg/revision/latest/scale-to-width-down/250?cb=20220311032018" group-title="Cine",Universal Crime
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/149.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0eb20b51ad13b58ad417f11318e588b3":"ad5d29a33d73d21187157802de8e6097"}
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Universal_Premiere_2021.png/640px-Universal_Premiere_2021.png" group-title="Cine",Universal Premiere
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/150.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"cedd9c1a5c2ae43f80ee3197212016d6":"bf47a3c39e164a97ea6adc4c8dd57435"}
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Universal_Reality.svg/revision/latest/scale-to-width-down/250?cb=20220311032056" group-title="Cine",Universal Reality
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/151.m3u8
+
+#EXTINF:-1 tvg-id="Paramount.ar" tvg-logo="https://i.imgur.com/RmAi4Bp.png" tvg-group="Cine y Series",Paramount Channel
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b85b710ecff3e38f31fc8e249b1c1cef:a1544c193dde6f8858c9358ee69a60a7
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/152.m3u8
+
+#EXTINF:-1 tvg-id="Volver.ar" tvg-logo="https://i.imgur.com/rnXRc6n.gif" tvg-group="Cine y Series",Volver
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=194e53184a424ce6989ad82c5f28fbc5:65d60c5cc4de031172be0a6a51edbdfe
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/153.m3u8
+
+#EXTINF:-1 tvg-id="DeporTV.(DEPTV).ar" tvg-logo="https://i.imgur.com/G8uuDOm.png" tvg-group="🇦🇷 Deportes",DeporTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f362097815892a4b83950f1d106ff0b2:4349e42e81c31a8389f4a42fcd298928
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/155.m3u8
+ 
+#EXTINF:-1 tvg-id="Torneos.y.Competencias.(Argentina).(TYC).ar" tvg-logo="https://i.imgur.com/7RHPeKo.png" tvg-group="🇦🇷 Deportes",TyC Sports
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/156.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
+#EXTINF:-1 tvg-id="Torneos.y.Competencias.(Argentina).(TYC).ar" tvg-logo="https://i.imgur.com/7RHPeKo.png" group-title="🇦🇷 Deportes",TyC Sports FULL HD
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/267.m3u8
+ 
+#EXTINF:-1 tvg-id="Torneos.y.Competencias.HDTV.(TYCHD).ar" tvg-logo="https://i.imgur.com/7RHPeKo.png" tvg-group="🇦🇷 Deportes",TyC Sports Internacional
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=58e1ebe75d944f6a98ea67b1c7c0a572:1c311b069dbce31ce8e62a6e7e2433eb
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/157.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WzNz6F9.png" group-title="🇦🇷 Deportes",TyC Sports 2 (Eventos)
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/248.m3u8
+ 
+#EXTINF:-1 tvg-id="Showsports" tvg-logo="https://i.imgur.com/dMx1mtZ.png" group-title="🇦🇷 Deportes",Showsports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df3ed6245bb9af1a0346379e8e475dff:f86f8457438d4e449d53b956cc1be664
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/158.m3u8
+ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a0aa01337a2148bda1e21862295ae037:fee0f87a0527497351fc54ce36ad1de2
+#EXTINF:-1 tvg-id="AmericaSports" tvg-logo="https://i.imgur.com/9fa6hFR.png" group-title="🇦🇷 Deportes",America Sports
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/159.m3u8
+ 
+#EXTINF:-1 tvg-id="GarageTV" tvg-logo="https://i.imgur.com/TnnmZP1.png",Garage TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=03d1dfb8df034d8b81e57753df00a36d:08d83660db4a73bb1d61d60b09df5f4d
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/160.m3u8
+ 
+#EXTINF:-1 tvg-id="FOXSportsArgentina" tvg-logo="https://i.imgur.com/HVXciO2.png" tvg-group="🇦🇷 Deportes",FOX Sports Argentina
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbc2a0c7a38df0aa3333cd71841d3b0d:aac61b730e2ac1df23f1e872e7541c1b
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/161.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVXciO2.png" group-title="🇦🇷 Deportes",Fox Sports (Full HD)
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/241.m3u8
+ 
+#EXTINF:-1 tvg-id="FoxSports2Argentina" tvg-logo="https://i.imgur.com/dZtyngf.png" tvg-group="🇦🇷 Deportes",FOX Sports 2 Argentina
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c98ddffc470fe449ae1a8d6492116976:5086d370e840010232cf4532b16e197f
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/162.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVXciO2.png" group-title="🇦🇷 Deportes",Fox Sports 2 (Full HD)
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/251.m3u8
+
+#EXTINF:-1 tvg-id="FOXSports3Argentina" tvg-logo="https://i.imgur.com/OTAiaLw.png" tvg-group="🇦🇷 Deportes",FOX Sports 3 Argentina 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=55b47390cf9e4997dae6dac85e057875:fa39e855543c5d70f30600d59e5e4c1b
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/163.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVXciO2.png" group-title="🇦🇷 Deportes",Fox Sports 3 (Full HD)
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/252.m3u8
+
+#EXTINF:-1 tvg-id="ESPNArgentina" tvg-logo="https://i.imgur.com/oWO7HYq.png" tvg-group="🇦🇷 Deportes",ESPN Argentina
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e884b711ab111beb8a7ba1e7bcbdc9bf:cb89ee3961599e3e648a5aad60895f34
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/164.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0aab4bd18144c7316c35c74ccce96ddc":"3e6db98d9df4747108bd896cba0be57d"}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oWO7HYq.png" group-title="🇦🇷 Deportes",ESPN PY
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/253.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2Argentina" tvg-logo="https://i.imgur.com/E0ViEEI.png" tvg-group="🇦🇷 Deportes",ESPN 2 Argentina
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=65a5bfa3c7a72dde60be9b0c7406c8fc:0b40ae9f78a7bac3b57ecbf72d3c081e
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/165.m3u8
+
+#EXTINF:-1 tvg-id="ESPN3Argentina" tvg-logo="https://i.imgur.com/xtYhkZL.png" tvg-group="🇦🇷 Deportes",ESPN 3 Argentina
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f4c9f97e2a36feab0e5077f2b44cbc4e:1743cd03dfe3736b2c95da91a783af38
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/166.m3u8
+
+#EXTINF:-1 tvg-id="ESPN4Argentina" tvg-logo="https://i.imgur.com/5zq5y8e.png" tvg-group="🇦🇷 Deportes",ESPN 4 Argentina
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/167.m3u8
+
+#EXTINF:-1 tvg-id="ESPN5" tvg-logo="https://i.imgur.com/SgHKx7r.png" group-title="🇦🇷 Deportes",ESPN 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"24f2b3e741f0d9e9a8d516faff38bddc":"bbd3fd02fb104e1463ac528a13f67e4a"}
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/168.m3u8
+
+#EXTINF:-1 tvg-id="ESPN6" tvg-logo="https://i.imgur.com/Ip8Gu2h.png" group-title="🇦🇷 Deportes",ESPN 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5fc7b662e69c0fbf8d39691166b1c919":"89157cdd25df25d56f1ecccee3850888"}
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/169.m3u8
+
+#EXTINF:-1 tvg-id="ESPN7" tvg-logo="https://i.imgur.com/uWS2bPf.png" group-title="🇦🇷 Deportes",ESPN 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5fc7b662e69c0fbf8d39691166b1c919":"89157cdd25df25d56f1ecccee3850888"}
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/170.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"54ef857b74c0c6e37b04022a87708382":"712ca8c470e9ff4f08915e7a7d91ff33"}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RGXdb1I.png" group-title="🇦🇷 Deportes", BeIn Sports Ñ En Español
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/242.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eEVMHk4.png" group-title="🇦🇷 Deportes",BeIn Sports Xtra En Español
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/250.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" tvg-group="🇦🇷 Deportes", 📺EVENTOS📺 (1)
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/236.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" tvg-group="🇦🇷 Deportes", 📺EVENTOS📺 (2)
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/237.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png" tvg-group="🇦🇷 Deportes", 📺EVENTOS📺 (3)
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/238.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZOAzgOB.png", 📺Eventos 📺 (4)
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/239.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"48d0e34c8797c5c2a742d2630a8fb975":"fb5d12b9d8febe836e5670abd003ddca"}
+#EXTINF:-1 tvg-id="espn6.py" tvg-logo="https://i.imgur.com/MCnwIMK.png" group-title="Eventos Flow HD",Eventos Flow
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/171.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5c86e237317c2231ac1bc130e995fad6":"dcacf7b239ee03df3c69ca11dbcde4eb"}
+#EXTINF:-1 tvg-id="Eventos .ar" tvg-logo="https://i.imgur.com/so7HCmC.png" group-title="Eventos Flow HD",Eventos 1 HD
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/272.m3u8
+
+#EXTINF:-1 tvg-id="mls.us" tvg-logo="https://i.imgur.com/DBIYmWz.png" group-title="🇦🇷 Deportes",MLS
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/180.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hGWYgPK.png" tvg-group="🇦🇷 Deportes",NBA TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0c38de3c9844e4e9f975dffb3eff8ad:141ca0fdf6ebadfa7107576b8e09e117
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/185.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/88LYZCx.png" tvg-group="🇦🇷 Deportes",VTV Uruguay
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b96960aa715a4e51b7e952e81c99ac8e:5bbffc680764dbd63d90b774b3aa0c0a
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/187.m3u8
+
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://streambtw.com/
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://streambtw.com
+#EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/15/F1-Logo-PNG-Pic.png" group-title="🇦🇷 Deportes",F1 (Solo Eventos) 🏁
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/233.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJbednM.jpeg" tvg-group="🇦🇷 Deportes",DAZN F1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1061be12d303247426ec25e8369b2647":"bd622b0e610295de3b0bccb850ccaaaa","b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f"}
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/190.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aEpWHh0.png" tvg-group="🇦🇷 Deportes",DAZN 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"44dd9cd370b08a868ead115fe84ecfde":"bff19ab0a51cf14e848389b152913fd0","b770d5b4bb6b594daf985845aae9aa5f":"b0cb46d2d31cf044bc73db71e9865f6f"}
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/188.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aEpWHh0.png" tvg-group="🇦🇷 Deportes",DAZN 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0eab5a3f3e3b4ba5d42d40ca30d17571":"f3f061ded9b70e8160590d5802ecda6d"}
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/217.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aEpWHh0.png" tvg-group="🇦🇷 Deportes",DAZN 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"bad8efff688c0dbb3711e4a7114c22a3":"6ba800673b20776c0c850130d45e1920"}
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/218.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aEpWHh0.png" tvg-group="🇦🇷 Deportes",DAZN 4
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d27104d427e4f87e75b19395a9f8796b":"723593c70e2d4c4862754398e80168f8"}
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/219.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bmF7gnc.png" tvg-group="🇦🇷 Deportes",DAZN La Liga
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/189.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ngoe8Do.png" tvg-group="🇦🇷 Deportes",La Liga TV Hypermotion ES
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/254.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JRlA666.jpeg" group-title="🇦🇷 Deportes",UFC
+http://vps-4088879-x.dattaweb.com/3516820717/3516820717/255.m3u8
